@@ -38,7 +38,7 @@ body {
 }
 
 body {
-  background-color: rgb(243, 169, 237);
+  background-color: rgb(19, 53, 204);
   margin: 0;
   }
   
@@ -50,7 +50,7 @@ body {
   }
   
   ul li a {
-  --c: rgb(240, 109, 240);
+  --c: rgb(14, 46, 231);
   color: var(--c);
   font-size: 16px;
   border-radius: 0.5em;
@@ -121,7 +121,7 @@ body {
     }
     
     ul li a {
-    --c: rgb(243, 69, 185);
+    --c: rgb(101, 98, 238);
     color: var(--c);
     font-size: 16px;
     border-radius: 0.5em;
